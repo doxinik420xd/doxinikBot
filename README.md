@@ -6,10 +6,10 @@ commands:
 
 | command  | description |
 | ------------- | ------------- |
-| ?ping  | reacts with pong  |
+| ?ping  | reacts with pong          |
 | ?pingme  | pings you  |
-| ?following (user) | sends the [https://twitchfollowing.com/?](following-site)  |
-| ?ttvinfo (user) | sends the [https://emotes.raccatta.cc/twitch/](emotes-page)  |
+| ?following (user) | sends the following-site  |
+| ?ttvinfo (user) | sends the emotes-page  |
 | ?bttvsearch (emote)  |  sends the bttv-link to the used emote |
 | ?ffzsearch (emote) | sends the ffz-link to the used emote  |
 | ?modlookup / ?ml (user) | sends the modlookup site |
